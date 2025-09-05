@@ -1,0 +1,11 @@
+---
+title: "Contact Me"
+---
+
+![](assets/photo_storage/contact_me.jpg){width="330" style="border-radius: 8px; float: left; margin-right: 20px;"}
+
+I am always open to collaboration, inquiries, or just connecting, so don't hesitate to reach out! 
+
+**LinkedIn**: www.linkedin.com/in/annazirkes
+
+**Email**: azirkes@gmail.com
