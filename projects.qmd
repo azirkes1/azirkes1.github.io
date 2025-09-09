@@ -104,7 +104,7 @@ While interning for The Nature Conservancy, I created a web app using Python and
 Key skills: Python, ArcGIS Pro, automated geoprocessing, data cleaning & visualization, creative problem solving
 Python modules utilized: streamlit, folium, numpy, rasterio, matplotlib, and geopandas
 
-[Click here to view the app](https://bbwildfire.streamlit.app)
+[Click here to view the app](https://bbwildfire.streamlit.app) - may take a moment to render
 
 [Click here to view the github repository](https://github.com/azirkes1/bb_wildfire)
 
@@ -130,7 +130,7 @@ Alongside the Wildfire Management Data App, I also developed Google Earth Engine
 
 Key skills: JavaScript, Google Earth Engine, satellite image processing, remote sensing indices, fire ecology 
 
-[Click here to view the code](https://code.earthengine.google.com/57b233e295913b25d46a30bd0c9a003a)
+[Click here to view the code](https://code.earthengine.google.com/57b233e295913b25d46a30bd0c9a003a) - requires a Google Earth Engine account
 
 [Click here to view the tutorial](https://youtu.be/ZxnXXN5S_Vk)
 
@@ -154,8 +154,6 @@ I developed an ArcGIS StoryMap to tell one story of wildfires in Bristol Bay, Al
 <br>
 Key skills: ArcGIS Online, ArcGIS StoryMap, written communication, data mangement
 
-[Click here to view the StoryMap](https://arcg.is/1KbTCD0)
-
 <br>
 <img src="assets/photo_storage/storymap.png" alt="photo of storymap" width="900" style="border-radius: 8px;"/>
 
@@ -175,7 +173,7 @@ As a final project during my master's coursework, I measured the retreat of Devo
 <br>
 Key skills: Google Earth Engine, ArcGIS Pro, Remote sensing indices, and data wrangling, management, & visualization
 
-[Click here to read the final report]("assets/doc_storage/Devon_icecap.docx") 
+[Click here to read the final report](assets/doc_storage/Devon_icecap.docx) 
 
 <br>
 
